@@ -1,0 +1,24 @@
+{
+  "name": "exframework-antd",
+  "version": "1.0.0",
+  "description": "exframework for font ( base on antd )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/88fantasy/exframework-front.git"
+  },
+  "keywords": [
+    "exframework",
+    "front",
+    "antd"
+  ],
+  "author": "rwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/88fantasy/exframework-front/issues"
+  },
+  "homepage": "https://github.com/88fantasy/exframework-front#readme"
+}
